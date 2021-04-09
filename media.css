@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#navbar{
+    
+    flex-direction: column;
+}
+#navbar ul li{
+    
+    font-size: 13px;
+ }
+#navbar ul li a{
+    
+    padding: 2px 11px;
+ }
+ #logo img{
+     margin: 2px 6px;
+     height: 65px;
+ }
+ #logo{
+     margin: 0px;
+ }
+ #home .heading{
+  font-size: 21px;
+
+}
+#home{
+    height: 56vh;
+}
+
+
+#home::before{
+    height: 85vh;
+}
+    
+    
+#home p{
+    font-size: 22px;
+}
+
+
+#home p1{
+   font-size: 12px;
+   width: 257px;
+ 
+}
+
+.h-primary{
+   font-size: 1.5rem;
+
+}
+#personal-button{
+    flex-direction: column;
+ }
+
+ .youtube-btn{
+     font-size: 13px;
+    
+ }
+ .project-btn{
+  display: block;
+  margin: auto;
+     font-size: 12px; 
+  
+ }
+
+/* work section */
+
+#card-section h1{
+    font-size: 1.5rem;
+    color: white;
+
+}
+#home .heading{
+font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #5f293b
+}
+
+/* work section close */
+
+
+
+
+
+
+
+/* skill-section */
+
+
+#skill h1{
+    font-size: 30px;
+}
+/* skill-section close */
+
+
+
+
+
+/* contact */
+
+#contact p{
+    font-size: 20px;
+}
+
+
+#contact a{
+    top: 0;
+    left: 0;
+    height: 60px;
+    width: 60px;
+    font-size: 10px;
+    text-align: center;
+    border-radius: 50px;
+    margin: 10px;
+    line-height: 80px;
+    margin-bottom: 150px;
+}
+#contact .center {
+    color: white;
+    font-size: 1.5rem;
+    padding: 10px;
+}
+/* contact section close */
+footer{
+    font-size: 12px;
+    padding: 18px 21px;
+  }
+    
